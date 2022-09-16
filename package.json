@@ -1,0 +1,20 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gitu.js",
+  "scripts": {
+    "start": "node gitu.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blugin12/GitHub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blugin12/GitHub/issues"
+  },
+  "homepage": "https://github.com/blugin12/GitHub#readme"
+}
